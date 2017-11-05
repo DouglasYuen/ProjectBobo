@@ -1,0 +1,44 @@
+Physical Exam,Line,Text,Number,TYPE TEXT HERE
+Vitals,1,01. Vitals: RR SpO2 on _____ BP HR Temp,1,Vitals: RR SpO2 on _____ BP HR Temp
+CVS,1,02. ^CVS Exam:,2,^CVS Exam:
+CVS,2,03. Heart Sounds:,3,Heart Sounds:
+JVP,1,04. JVP: ___cm ASA or not seen,4,JVP: ___cm ASA or not seen
+Edema,1,05. Edema:,5,Edema:
+In's And Out's,1,06. ^Last24h: In:_ Out:_,6,^Last24h: In:_ Out:_
+Fluid Status,1,"07. MM: Moist or Dry, Axilia Moist or Dry",7,"MM: Moist or Dry, Axilia Moist or Dry"
+Fluid Status,2,"08. Fluid Status: Hypovolemic, Euvolemic, Hypervolemic, or Unclear",8,"Fluid Status: Hypovolemic, Euvolemic, Hypervolemic, or Unclear"
+Pulmonary,1,09. ^Pulm Exam,9,^Pulm Exam
+Pulmonary,2,10. Air Entry:,10,Air Entry:
+Pulmonary,3,11. Crackles/Wheeze,11,Crackles/Wheeze
+Pulmonary,4,12. Percussion:_______ Circle if: Egophony Bronchophony Whisper Pect,12,Percussion:_______ Circle if: Egophony Bronchophony Whisper Pect
+COPD,1,13. ^COPD Exam:,13,^COPD Exam:
+COPD,2,"14. L Height:___cm, FET Seconds",14,"L Height:___cm, FET Seconds"
+COPD,3,"15. Circle if: Indrawing, Accessory Muscle use",15,"Circle if: Indrawing, Accessory Muscle use"
+COPD,4,"16. Circle if: Barrel Chest, Cardiac Dullness, Clubbing",16,"Circle if: Barrel Chest, Cardiac Dullness, Clubbing"
+Abdo,1,17. ^Abdo Exam:,17,^Abdo Exam:
+CLD,1,18. Signs of Chronic Liver Disease:,18,Signs of Chronic Liver Disease:
+Ascites,1,19. Ascites: Yes or No,19,Ascites: Yes or No
+Derm,1,20. ^Rashes,20,^Rashes
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+CBC,1,51. CBC: Hgb___ Plt___ WBC___,51,CBC: Hgb___ Plt___ WBC___
+Lytes,1,52. Lytes: Na___ K___ Cl___ CO2__ SCr___ Baseline SCr___,52,Lytes: Na___ K___ Cl___ CO2__ SCr___ Baseline SCr___
+ExtendedLytes,1,53. Lytes: Na___ K___ Cl___ CO2__ SCr___ Baseline SCr___ . Ca__ Mg__ PO4__,53,Lytes: Na___ K___ Cl___ CO2__ SCr___ Baseline SCr___ . Ca__ Mg__ PO4__
+Coags,1,54. INR___ PTT___,54,INR___ PTT___
+LiverEnzymes,1,55. ALT:___ AST:____ ALP:___ GGT:___ Bili:___ . INR:___  Albumin:___,55,ALT:___ AST:____ ALP:___ GGT:___ Bili:___ . INR:___  Albumin:___
+Trop,1,56. Trop:_,56,Trop:_
+ECG,1,57. ECG Date:______ QTc:___,57,ECG Date:______ QTc:___
+ECG,2,58. ECG FIndings:_,58,ECG FIndings:_
+CXR,1,59. Date,59,Date
+CXR,2,60. Findings:_,60,Findings:_
+Repeat CXR,1,61. Date,61,Date
+Repeat CXR,2,62. Findings:_,62,Findings:_
+CT Head,1,63. Date:___ CT Head Findings:_,63,Date:___ CT Head Findings:_
+Echocardiogram,1,64. TTE or TEE. Date:___. LVEF:___ . Findings:_,64,TTE or TEE. Date:___. LVEF:___ . Findings:_
+ABG,1,65. AaDO2:_____ pH:____  O2_____ CO2_____ HCO3____ AG_____,65,AaDO2:_____ pH:____  O2_____ CO2_____ HCO3____ AG_____

@@ -1,0 +1,56 @@
+THE CHECKLIST
+Date created:
+
+Summary:_
+
+Advanced Care Plan:___
+Patient is from: Home, Senior's Apartment, Assisted Living, SL3, SL4, or LTC
+
+TASKS TO BE DONE DAILY:
+Dates:                   ||                 |___|___|___|___|___|___|___|
+CHF______________________|| Positioned upright                          
+                         ||                 |___|___|___|___|___|___|___|
+CHF______________________|| Adjust Lasix    |___|___|___|___|___|___|___|
+Hospital Acquired Pneumo_|| WBC             |___|___|___|___|___|___|___|
+GI Bleed_________________|| Signs of Bleeding                           
+                         ||                 |___|___|___|___|___|___|___|
+GI Bleed_________________|| Hgb             |___|___|___|___|___|___|___|
+GI Bleed_________________|| SCr             |___|___|___|___|___|___|___|
+_________________________||_________________|___|___|___|___|___|___|___|
+_________________________||_________________|___|___|___|___|___|___|___|
+_________________________||_________________|___|___|___|___|___|___|___|
+
+
+TASKS FOR THIS HOSPITAL STAY:
+CHF || Suspected Etiology:_
+CHF || Had Recent Echo: Date:____ LVEF____ Findings:_
+CHF || Salt Restrict
+CHF || Adjust Meds at admission to accomodate CVS status and potential AKI
+CHF || Once out of CHF, re-start medications & titrate long-term CHF meds
+Hospital Acquired Pneumo || CXR Recently
+Hospital Acquired Pneumo || Cultures: Date Drawn:_____ Results: 24h______________ Results 5days:______________
+Hospital Acquired Pneumo || On Abx
+Hospital Acquired Pneumo || Alternative Abx to Consider if Treatment Fails:
+GI Bleed || Adjust Panto
+GI Bleed || If Varices: Octreotide and SBP Proph
+GI Bleed || Endoscopy
+
+MEDICAL TASKS FOR DISCHARGE:
+CHF || Follow-up Plan:
+GI Bleed || Follow-up with:
+
+
+ADDITIONAL TASKS REQUIRED ON DISCHARGE:
+Patient's Disposition is: Home, Senior's Apartment, Assisted Living, SL3, SL4, or LTC
+Patient is to be followed up by::
+	___________________
+	___________________
+	___________________
+Mobility & Function Agreed by PT + OT:___
+
+Problem List:
+1. CHF
+2. Hospital Acquired Pneumonia
+3. GI Bleed
+4. DVT-P for Acutely ill hospital patient
+5. Obesity

@@ -1,0 +1,9 @@
+HelpTheBobo Installation and Setup instructions
+
+Install from source
+
+Installing PyQt5 using the Python Package Index. This is the easiest way to install PyQT5, the dependency library used for running HelpTheBobo
+
+Open the Terminal (Mac OS X 10.10 or later ⌘-space, type in "Terminal")
+Type into the Terminal: pip3 install pyqt5
+Hit Enter. 

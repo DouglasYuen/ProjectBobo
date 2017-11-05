@@ -1,0 +1,82 @@
+PROGRESS NOTE
+Date:
+
+Summary:_
+
+1. CHF
+Suspected Etiology:_
+Circle if Symptoms Present:
+	Chest Pain  Palpitations
+	Dyspnea  Orthopnea  PND 
+	Edema . Ascites .  Elevated JVP
+Symptom Management:
+	Place in Upright Position_  Salt Restriction:_
+	Loop Diuretic:_
+	Response to Diuretic:_
+Long-Term Management of HFrEF:
+	Anti-Plt:_ . Statin:_
+	ACEi/ARB:_ . $Beta-blocker:_ . Aldo Receptor Antagonist:_
+
+
+2. HOSPITAL ACQUIRED PNEUMONIA
+Symptoms:
+Management:
+CURB-65 Score:
+Last CXR: Date_ Major findings:
+Cultures: Date Drawn:_____ Results:_
+Antibiotic: _ of Treatment Day_. End Date:_
+
+
+3. GI BLEED
+Symptoms: Melena vs Vomiting blood vs Frank Bleed
+Any Abdo Pain:____ 
+Postural Vitals________ .  BUN/SCr Ratio:____
+Profile:
+	Use of NSAIDs or Anti-Plt or Anticoagulation agents
+	Hx of CAD: Y or N  ; Hx of Liver Disease or excessive EtOH use: Y or N
+Management:
+	Hgb Trend:____________  SCr:
+	Consent for transfusion: Y or N
+	Fluid Resuscitation:
+	Anti-coagulation Reversal Agent (if needed):
+	Meds: Panto _____   If Varices Suspected: Octreotide:____ SBP Proph:________ Day__
+Endoscopy
+
+
+4. DVT-P FOR ACUTELY ILL HOSPITAL PATIENT
+Wt:_ (<40kg or >100kg adjust dose) and B-HCG:_
+Renal Impairment (CrCl<30): Y or N or Unknown ; if yes - consider UFH
+Agent: Subcut LMWH or UFH or already on anticoagulation
+
+
+5. OBESITY
+Wt:_ BMI:_
+
+
+PHYSICAL EXAM:
+Vitals: RR SpO2 on _____ BP HR Temp
+
+CVS Exam:
+Heart Sounds:
+JVP: ___cm ASA or not seen
+
+Last24h: In:_ Out:_
+MM: Moist or Dry, Axilia Moist or Dry
+Fluid Status: Hypovolemic, Euvolemic, Hypervolemic, or Unclear
+
+Pulm Exam
+Air Entry:
+Crackles/Wheeze
+Percussion:_______ Circle if: Egophony Bronchophony Whisper Pect
+
+Abdo Exam:
+
+INVESTIGATIONS:
+CBC: Hgb___ Plt___ WBC___
+Lytes: Na___ K___ Cl___ CO2__ SCr___ Baseline SCr___
+Trop:_
+ECG Date:______ QTc:___
+ECG FIndings:_
+Date
+Findings:_
+TTE or TEE. Date:___. LVEF:___ . Findings:_
